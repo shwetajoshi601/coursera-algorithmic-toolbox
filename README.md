@@ -16,3 +16,6 @@ Example:
 * Fun Fact: It was originally developed as a mathematical model for rabbit populations.
 * This series grows exponentially very quickly.
 
+## Running Time of Algorithms
+
+Follow: [Aymptotic Notation - Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation)
